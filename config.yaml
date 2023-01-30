@@ -22,14 +22,12 @@ markup:
 
 
 social:
-  github: https://github.com/nodejh
-  twitter: https://github.com/nodejh
-  stackoverflow: https://stackoverflow.com/users/4518882/nodejh
+  github: https://github.com/Tiresiasel
 
 
 params:
-  author: nodejh
-  bio: Software Engineer
+  author: Yinji (Benedict) Zhou
+  bio: PhD
   description: My Blog
   enableRSS: true
   enableComments: true
